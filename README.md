@@ -1,3 +1,29 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br />
+<div align="center">
+
+<h3 align="center">NextJS Smartcontract Lottery</h3>
+
+  <p align="center">
+    The smart contract allows people to enter the raffle with 0.1 ETH, and every 30 seconds a random winner is picked. And the UI is updated accordingly.
+    <br />
+    <a href="https://github.com/nikmace/nextjs-raffle"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/nikmace/nextjs-raffle">View Demo</a>
+    ·
+    <a href="https://github.com/nikmace/nextjs-raffle/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/nikmace/nextjs-raffle/issues">Request Feature</a>
+  </p>
+</div>
+
 # NextJS Smartcontract Lottery (Raffle)
 
 Built with ❤️ using:
@@ -8,7 +34,6 @@ Moralis
 web3uikit
 Ethers
 Hardhat
-IPFS
 
 - [NextJS Smartcontract Lottery (Raffle) FCC](#nextjs-smartcontract-lottery-raffle-fcc)
 - [Getting Started](#getting-started)
@@ -170,3 +195,19 @@ ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
 [![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
 
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/nikmace/nextjs-raffle.svg?style=for-the-badge
+[contributors-url]: https://github.com/nikmace/nextjs-raffle/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nikmace/nextjs-raffle.svg?style=for-the-badge
+[forks-url]: https://github.com/nikmace/nextjs-raffle/network/members
+[stars-shield]: https://img.shields.io/github/stars/nikmace/nextjs-raffle.svg?style=for-the-badge
+[stars-url]: https://github.com/nikmace/nextjs-raffle/stargazers
+[issues-shield]: https://img.shields.io/github/issues/nikmace/nextjs-raffle.svg?style=for-the-badge
+[issues-url]: https://github.com/nikmace/nextjs-raffle/issues
+[license-shield]: https://img.shields.io/github/license/nikmace/nextjs-raffle.svg?style=for-the-badge
+[license-url]: https://github.com/nikmace/nextjs-raffle/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: images/screenshot.png
